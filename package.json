@@ -1,6 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+	"author": "Pearl C",
+	"description": "freeCodeCamp managing packages with NPM",
+	"keywords": [ "npm", "freecodecamp", "back end" ],
+	"license": "MIT",
+	"version": "1.0.0",
+	"dependencies": { 
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
